@@ -33,10 +33,8 @@ DCT is a valuable tool for pictures compression, when associated with Quantizati
 
 ## 3. DESIGN FILE HIERARCHY
 ```
-	|   CONTRIBUTING.md
-	|   LICENSE.md
+
 	|   README.md
-	|   wang_dct_db_v2.pdf
 	|   
 	\---wang_dct
 			dct.h
