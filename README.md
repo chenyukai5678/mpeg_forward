@@ -36,14 +36,25 @@ DCT is a valuable tool for pictures compression, when associated with Quantizati
 
 	|   README.md
 	|   
-	\---wang_dct
+	\---code
 			dct.h
 			dct_coeff_table.h
 			fdctref.cpp
 			my_dct.cpp
-			run_hls_dct_script.tcl
-			test_wang_fdct.cpp
 			wang_fdct.cpp
+	\---code_opt
+			dct.h
+			dct_coeff_table.h
+			fdctref.cpp
+			my_dct.cpp
+			wang_fdct.cpp
+	\---script
+			run_sqrt_cordic_hls_script.txt
+	\---impl
+			csynth.xml
+			top_fdct_sim.txt
+	\---testdata
+			test_wang_fdct.cpp
 ```
 
 ## 4. INSTALLATION AND OPERATING INSTRUCTIONS
