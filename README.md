@@ -52,7 +52,7 @@ DCT is a valuable tool for pictures compression, when associated with Quantizati
 			run_hls_dct_script.txt
 	\---impl
 			csynth.xml
-			top_fdct_sim.tcl
+			top_fdct_sim.log
 	\---testdata
 			test_wang_fdct.cpp
 ```
